@@ -1,0 +1,229 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Ficção"
+    },
+    {
+      "id": 2,
+      "nome": "Não Ficção"
+    },
+    {
+      "id": 3,
+      "nome": "Romance"
+    },
+    {
+      "id": 13,
+      "nome": "Cordel"
+    },
+    {
+      "id": 12,
+      "nome": "Poesia"
+    },
+    {
+      "id": 11,
+      "nome": "Alto"
+    },
+    {
+      "id": 10,
+      "nome": "Conto"
+    },
+    {
+      "id": 9,
+      "nome": "Crônica"
+    },
+    {
+      "id": 8,
+      "nome": "Lireratura Brasileira"
+    },
+    {
+      "id": 7,
+      "nome": "Literatura Portuguesa"
+    },
+    {
+      "id": 6,
+      "nome": "Literatura"
+    },
+    {
+      "id": 5,
+      "nome": "Indianismo"
+    },
+    {
+      "id": 4,
+      "nome": "Drama"
+    }
+  ],
+  "livros": [
+    {
+      "id": 1,
+      "titulo": "Dom Quixote",
+      "autor": "Miguel de Cervantes",
+      "anoPublicacao": 1605,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 1
+    },
+    {
+      "id": 2,
+      "titulo": "Origens",
+      "autor": "Neil deGrasse Tyson",
+      "anoPublicacao": 2017,
+      "isbn": "978-85-359-0650-4",
+      "disponivel": true,
+      "categoriaId": 2
+    },
+    {
+      "id": 3,
+      "titulo": "Uma Breve História do Tempo",
+      "autor": "Stephen Hawking",
+      "anoPublicacao": 1988,
+      "isbn": "978-85-359-0278-0",
+      "disponivel": false,
+      "categoriaId": 2
+    },
+    {
+      "id": 4,
+      "titulo": "Dom Quixote",
+      "autor": "Miguel de Cervantes",
+      "anoPublicacao": 1605,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 1
+    },
+    {
+      "id": 5,
+      "titulo": "ALgum livro",
+      "autor": "Junin",
+      "anoPublicacao": 1988,
+      "isbn": "978-85-359-0278-0",
+      "disponivel": false,
+      "categoriaId": 7
+    },
+    {
+      "id": 6,
+      "titulo": "ALgum livro 2",
+      "autor": "Junin",
+      "anoPublicacao": 1988,
+      "isbn": "978-85-359-0278-0",
+      "disponivel": false,
+      "categoriaId": 8
+    },
+    {
+      "id": 7,
+      "titulo": "ALgum livro 3",
+      "autor": "Junin",
+      "anoPublicacao": 1988,
+      "isbn": "978-85-359-0278-0",
+      "disponivel": false,
+      "categoriaId": 9
+    },
+    {
+      "id": 8,
+      "titulo": "ALgum livro 3",
+      "autor": "Junin",
+      "anoPublicacao": 1988,
+      "isbn": "978-85-359-0278-0",
+      "disponivel": false,
+      "categoriaId": 10
+    },
+    {
+      "id": 9,
+      "titulo": "ALgum livro 4",
+      "autor": "Junin",
+      "anoPublicacao": 1988,
+      "isbn": "978-85-359-0278-0",
+      "disponivel": false,
+      "categoriaId": 11
+    },
+    {
+      "id": 10,
+      "titulo": "ALgum livro 5",
+      "autor": "Junin",
+      "anoPublicacao": 1988,
+      "isbn": "978-85-359-0278-0",
+      "disponivel": false,
+      "categoriaId": 13
+    },
+    {
+      "id": 11,
+      "titulo": "ALgum livro 6",
+      "autor": "Junin",
+      "anoPublicacao": 1988,
+      "isbn": "978-85-359-0278-0",
+      "disponivel": false,
+      "categoriaId": 14
+    },
+    {
+      "id": 12,
+      "titulo": "ALgum livro 7",
+      "autor": "Junin",
+      "anoPublicacao": 1988,
+      "isbn": "978-85-359-0278-0",
+      "disponivel": false,
+      "categoriaId": 15
+    },
+    {
+      "id": 13,
+      "titulo": "ALgum livro 8",
+      "autor": "Junin",
+      "anoPublicacao": 1988,
+      "isbn": "978-85-359-0278-0",
+      "disponivel": false,
+      "categoriaId": 16
+    },
+    {
+      "id": 14,
+      "titulo": "ALgum livro 8",
+      "autor": "Junin",
+      "anoPublicacao": 1988,
+      "isbn": "978-85-359-0278-0",
+      "disponivel": false,
+      "categoriaId": 17
+    },
+    {
+      "id": 16,
+      "titulo": "ALgum livro 9",
+      "autor": "Junin",
+      "anoPublicacao": 1988,
+      "isbn": "978-85-359-0278-0",
+      "disponivel": false,
+      "categoriaId": 1
+    },
+    {
+      "id": 17,
+      "titulo": "ALgum livro 10",
+      "autor": "Junin",
+      "anoPublicacao": 1988,
+      "isbn": "978-85-359-0278-0",
+      "disponivel": false,
+      "categoriaId": 2
+    },
+    {
+      "id": 18,
+      "titulo": "ALgum livro 11",
+      "autor": "Junin",
+      "anoPublicacao": 1988,
+      "isbn": "978-85-359-0278-0",
+      "disponivel": false,
+      "categoriaId": 4
+    },
+    {
+      "id": 19,
+      "titulo": "ALgum livro 14",
+      "autor": "Junin",
+      "anoPublicacao": 1988,
+      "isbn": "978-85-359-0278-0",
+      "disponivel": false,
+      "categoriaId": 5
+    },
+    {
+      "id": 20,
+      "titulo": "ALgum livro 15",
+      "autor": "Junin",
+      "anoPublicacao": 1988,
+      "isbn": "978-85-359-0278-0",
+      "disponivel": false,
+      "categoriaId": 7
+    }
+  ]
+}
